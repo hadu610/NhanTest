@@ -26,4 +26,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)submoduleTest
+{
+
+    // test submodule 3 modified
+}
+
 @end
